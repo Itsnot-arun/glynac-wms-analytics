@@ -1,0 +1,47 @@
+user_referral_id,referrer_user_id,referred_user_id,referral_source,user_referral_status_id,referral_at
+1,1,51,Website,2,2024-03-01
+2,2,52,Referral,1,2024-03-02
+3,3,53,Website,1,2024-03-03
+4,4,54,Social Media,1,2024-03-05
+5,5,55,Referral,2,2024-03-08
+6,6,56,Website,1,2024-03-10
+7,7,57,Referral,3,2024-03-12
+8,8,58,Website,2,2024-03-15
+9,9,59,Social Media,1,2024-03-18
+10,10,60,Referral,1,2024-03-20
+11,11,61,Website,2,2024-03-22
+12,12,62,Referral,1,2024-03-25
+13,13,63,Website,3,2024-03-28
+14,14,64,Social Media,2,2024-04-01
+15,15,65,Referral,1,2024-04-03
+16,16,66,Website,1,2024-04-05
+17,17,67,Referral,2,2024-04-08
+18,18,68,Website,1,2024-04-10
+19,19,69,Social Media,1,2024-04-12
+20,20,70,Referral,2,2024-04-15
+21,21,71,Website,1,2024-04-18
+22,22,72,Referral,3,2024-04-20
+23,23,73,Website,2,2024-04-22
+24,24,74,Social Media,1,2024-04-25
+25,25,75,Referral,1,2024-04-28
+26,26,76,Website,2,2024-05-01
+27,27,77,Referral,1,2024-05-03
+28,28,78,Website,1,2024-05-05
+29,1,79,Social Media,2,2024-05-08
+30,2,80,Referral,1,2024-05-10
+31,3,81,Website,1,2024-05-12
+32,4,82,Referral,2,2024-05-15
+33,5,83,Website,3,2024-05-18
+34,6,84,Social Media,1,2024-05-20
+35,7,85,Referral,2,2024-05-22
+36,8,86,Website,1,2024-05-25
+37,9,87,Referral,1,2024-05-28
+38,10,88,Website,2,2024-03-02
+39,11,89,Social Media,1,2024-03-05
+40,12,90,Referral,1,2024-03-08
+41,13,91,Website,2,2024-03-10
+42,14,92,Referral,3,2024-03-12
+43,15,93,Website,2,2024-03-15
+44,16,94,Social Media,1,2024-03-18
+45,17,95,Referral,1,2024-03-20
+46,18,96,Website,1,2024-03-22
