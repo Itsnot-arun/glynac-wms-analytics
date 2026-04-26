@@ -1,0 +1,15 @@
+transaction_id,transaction_type,transaction_location,amount,created_at
+1,Purchase,Downtown Gym,50.00,2024-03-10
+2,Purchase,Westside Fitness,75.00,2024-03-15
+3,Purchase,Downtown Gym,50.00,2024-03-20
+4,Purchase,North Station,100.00,2024-04-05
+5,Purchase,Westside Fitness,75.00,2024-04-12
+6,Purchase,Downtown Gym,50.00,2024-04-18
+7,Purchase,East Mall,60.00,2024-04-25
+8,Purchase,North Station,100.00,2024-05-02
+9,Purchase,Downtown Gym,50.00,2024-05-08
+10,Purchase,Westside Fitness,75.00,2024-05-15
+11,Purchase,East Mall,60.00,2024-05-20
+12,Purchase,North Station,100.00,2024-05-22
+13,Purchase,Downtown Gym,50.00,2024-05-28
+14,Purchase,Westside Fitness,75.00,2024-05-30
