@@ -4,7 +4,7 @@ A data engineering project that ingests raw CSV exports from the Glynac Warehous
 
 ## 📊 Live Dashboard
 
-[View Live on Vercel →](https://your-vercel-url.vercel.app)
+[View Live on Vercel →](https://glynac-wms-analytics.vercel.app/)
 
 ## 🏗️ Architecture
 
